@@ -79,7 +79,8 @@ img {
     transform: translate(40%, -50%);
 }
 
-.showcase-top select {}
+
+/*.showcase-top select {}*/
 
 .showcase-top a {
     position: absolute;
